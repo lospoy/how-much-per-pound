@@ -1,0 +1,24 @@
+{
+  "name": "how-much-per-pound",
+  "version": "1.0.0",
+  "description": "RESTful API that calculates prices per pound or kilo for any item",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lospoy/how-much-per-pound.git"
+  },
+  "author": "Carlos Campoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lospoy/how-much-per-pound/issues"
+  },
+  "homepage": "https://github.com/lospoy/how-much-per-pound#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
